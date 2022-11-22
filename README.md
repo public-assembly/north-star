@@ -7,6 +7,10 @@ I'm going to outline a rough structure for this document. If you have suggestion
 
 [What]
 1. What is Public Assembly?
+
+- Public Assembly is...
+
+
 2. What is Public Assembly's relationship to Zora?
 3. What does Public Assembly aim to achieve?
 
