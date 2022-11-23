@@ -1,4 +1,4 @@
-# north-star
+# North Star
 Here we will co-write our values, objectives, motivations, and direction.
 
 To contribute to this document, you can use GitHub's native markdown editor, create a new branch for your commit, and start a pull request.
@@ -21,8 +21,17 @@ Public Assembly
 [How]
 1. How is Public Assembly structured?
 2. How will Public Assembly measure success?
-3. How can I participate in Public Assembly?
 
+- participation of existing organizations within Public Assembly governance
+- participation of newly founded organizations within Public Assembly governance
+- engagement of squads within Public Assembly's 'Prop House'
+- proliferation of Public Assembly ideals
+- frequency of remixing done using Public Assembly templates
+- proliferation of Zora (Nouns Builder, BuilderDAO, and Create)
+- collaboration amongst organizations participating in Public Assembly governance
+- collaboration amongst independent builders participating in Public Assembly's 'Prop House'
+
+3. How can I participate in Public Assembly?
 
 --- 
 ### What
