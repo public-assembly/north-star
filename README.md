@@ -3,9 +3,9 @@ Here we will co-write our values, objectives, motivations, and direction.
 
 ***To contribute to this document, you can use GitHub's native markdown editor, for now you can commit changes directly to the main branch.***
 
-I'm going to outline a rough structure for this document. If you have suggestions for similar value statements/manifestos that we can look to for structural inspiration, as well as the content they include, attach them as a comment within the inspiration branch.
+There is a branch titled inspiration where you can add related resources that may help us shape this document.
 
-[What]
+***What***
 1. What is Public Assembly?
 
 Public Assembly is an organization of builders gathered together to create what's missing. _Who are builders?_ Builders are educators, designers, engineers, organizers, activists, those without titles, those with many titles, individuals who engage with the Internet as a substrate to be added upon. _What does it mean to create what's missing?_ What is "missing" is up to you and your squad to decide. We exist to hack, remix, and document.
