@@ -23,7 +23,7 @@ I'm going to outline a rough structure for this document. If you have suggestion
 ### What
 #### 1. What is PA
 
-Public Assembly to me is where very talented creators meet to build “the thing” in public. Thos things are high-impact, need-filling builds that could be what "the builder" needed in their individual journey, that they felt was missing all along. Those builds could even be an extension of something else but reoptimized. By building the thing and open sourcing it: we educate, get the background character like curators and researchers the funding they need onchain, and create modular repositories/marketplaces for anyone to use as a resource. I think a strong philosophy is dropping seeds for the next person to pick up and async communication. In this we actually facilate a path to the community continuing product development and understanding how. 
+Public Assembly to me is where very talented creators meet to build “the thing” in public. Those things are high-impact, need-filling builds that could be what "the builder" needed in their individual journey, that they felt was missing all along. Those builds could even be an extension of something else but reoptimized. By building the thing and open sourcing it: we educate, get curators and researchers the funding they need onchain, and create modular repositories/marketplaces for anyone to use as a resource. I think a strong philosophy is dropping seeds for the next person to pick up and async communication. In this we actually facilitate a path to the community continuing product development and understanding how. 
 
 This is done by elevating subDAO spinoffs funded by proposals on the community reserve. We also elevated the research needed to know the best ways to do this. It is really a social experiment in exploring new avenues of how to work together and always pass it forward.
 
@@ -49,6 +49,7 @@ People can also define what they want to see. It’s a fraction of ownership to 
 #### 1. How is Public Assembly structured?
 
 Similar to the orbit model of contributions 
+
 ![image](https://user-images.githubusercontent.com/91724117/203510078-c68e9b94-ccde-4279-952f-52f67d39e8e1.png)
 ![image](https://user-images.githubusercontent.com/91724117/203510464-b2e6c8d5-8f23-4267-ba07-6866f5caf15f.png)
 
