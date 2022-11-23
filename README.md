@@ -36,6 +36,8 @@ Public Assembly
 
 3. How can I participate in Public Assembly?
 
+We're in the process of formulating our contribution guidelines. If you're eager to partake in the conversation, join our [Discourse](https://pblcasmbly.discourse.group/) and start asking questions. Also feel free to tag us on Twitter [@pblcasmbly](twitter.com/pblcasmbly).
+
 --- 
 ### What
 #### 1. What is PA
@@ -77,10 +79,6 @@ We want to create multiple orbits that coexist together and cross collaborate.
 #### 2. How will Public Assembly measure success?
 
 How many subDaos are building full scale prototypes. How much cross collaboration is happening within those groups. 
-
-#### 3. How can I participate in Public Assembly?
-
-Public Assembly is open to general public to start submitting ideas as code to the protocol. Tag us somewher and start asking questions
 
 
 
