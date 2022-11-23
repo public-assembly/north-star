@@ -21,17 +21,17 @@ I'm going to outline a rough structure for this document. If you have suggestion
 
 --- 
 ### What
-#### What is PA
+#### 1. What is PA
 
 Public Assembly to me is where very talented creators meet to build “the thing” in public. Thos things are high-impact, need-filling builds that could be what "the builder" needed in their individual journey, that they felt was missing all along. Those builds could even be an extension of something else but reoptimized. By building the thing and open sourcing it: we educate, get the background character like curators and researchers the funding they need onchain, and create modular repositories/marketplaces for anyone to use as a resource. I think a strong philosophy is dropping seeds for the next person to pick up and async communication. In this we actually facilate a path to the community continuing product development and understanding how. 
 
 This is done by elevating subDAO spinoffs funded by proposals on the community reserve. We also elevated the research needed to know the best ways to do this. It is really a social experiment in exploring new avenues of how to work together and always pass it forward.
 
-#### What is Public Assembly's relationship to Zora?
+#### 2. What is Public Assembly's relationship to Zora?
 
 Zora has all these great products and Public Assembly packages them into abstracted tools and gets them to the hands of the people quickly. Providing human perspective and accelerated learning style hands on tools and content for people to get it in an digestible fashion. Public assembly is dedicated to the manifestation of more creativity but we are also in alignment with the ethos of building hyperstructures as protocols.
 
-#### What does Public Assembly Aim to Achieve 
+#### 3. What does Public Assembly Aim to Achieve 
 
 Optimized working groups where people find where they fit and grow. Cross collaboration of internet builders. I see PA with way more lives touched than my own, more Web 3 hybrids of artists being developers, fun and sleek dApps that people of any expertise level can use. I personally would like to see the first Public Assembly studio space and IRL events where education can happen in a warmer environment.
 
