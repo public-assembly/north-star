@@ -52,13 +52,17 @@ Similar to the orbit model of contributions
 ![image](https://user-images.githubusercontent.com/91724117/203510078-c68e9b94-ccde-4279-952f-52f67d39e8e1.png)
 ![image](https://user-images.githubusercontent.com/91724117/203510464-b2e6c8d5-8f23-4267-ba07-6866f5caf15f.png)
 
+We want to create multiple orbits that coexist together and cross collaborate. 
+
+![image](https://user-images.githubusercontent.com/91724117/203512760-c6757c8d-bd53-4ec4-a8e1-15e7a9c70a1a.png)
+
 #### 2. How will Public Assembly measure success?
 
 How many subDaos are building full scale prototypes. How much cross collaboration is happening within those groups. 
 
 #### 3. How can I participate in Public Assembly?
 
-Public Assembly is open to general public to start submitting ideas as code to the protocol. 
+Public Assembly is open to general public to start submitting ideas as code to the protocol. Tag us somewher and start asking questions
 
 
 
