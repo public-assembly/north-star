@@ -7,7 +7,10 @@ I'm going to outline a rough structure for this document. If you have suggestion
 
 [What]
 1. What is Public Assembly?
-2. What is Public Assembly's relationship to Zora?
+
+Public Assembly is an organization of builders gathered together to create what's missing. _Who are builders?_ Builders are educators, designers, engineers, organizers, activists, those without titles, those with many titles, individuals who engage with the Internet as a substrate to be added upon. _What does it mean to create what's missing?_ What is "missing" is up to you and your squad to decide. We exist to hack, remix, and document.
+
+3. What is Public Assembly's relationship to Zora?
 
 Public Assembly exists in Zora's orbit. Our core contributors are a mixture of independent builders and Zora Labs team members. 10% of ownership of the DAO that surrounds Public Assembly is held by a multisig Zora Labs controls.
 
