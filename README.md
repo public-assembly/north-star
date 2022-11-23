@@ -36,7 +36,7 @@ Public Assembly
 
 3. How can I participate in Public Assembly?
 
-We're in the process of formulating our contribution guidelines. If you're eager to partake in the conversation, join our [Discourse](https://pblcasmbly.discourse.group/) and start asking questions. Also feel free to tag us on Twitter [@pblcasmbly](twitter.com/pblcasmbly).
+We're in the process of formulating our contribution guidelines. If you're eager to partake in the conversation, join our [Discourse](https://pblcasmbly.discourse.group/) and start asking questions. Also feel free to tag us on Twitter [@pblcasmbly](https://twitter.com/pblcasmbly).
 
 --- 
 ### What
