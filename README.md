@@ -14,7 +14,17 @@ Public Assembly is an organization of builders gathered together to create what'
 
 Public Assembly exists in Zora's orbit. Our core contributors are a mixture of independent builders and Zora Labs team members. 10% of ownership of the DAO that surrounds Public Assembly is held by a multisig Zora Labs controls.
 
-3. What does Public Assembly aim to achieve?
+4. What does Public Assembly aim to achieve?
+
+— to be determined —
+
+What is #ff89de and what is our relationship to Public Assembly?
+
+#ff89de is comprised of seven contributors. These individuals came together to conceptualize and develop the foundational elements of Public Assembly. Much of the influence of #ff89de is reflected via Public Assembly’s auction mechanics, website, and throughout Neosound. That being said, in the eyes of #ff89de, Public Assembly is much larger than what seven contributors alone can accomplish. We hope to set squads and contributors alike on a path of carving their own space within Public Assembly, utilizing the resources it provides and leaning on (when necessary) the guidelines #ff89de has provided.
+
+What does #ff89de aim to achieve?
+
+Much of what is to come in the future of Public Assembly is uncertain. However, in the immediate term, we’re committed to continuing to provide accessible documentation of our work. Alongside, contextual and highly specific educational content in the form of videos, collaborative experiences, and various writing. Everything we do should be replicable, not in the hopes that others follow us, but with the hope that we’ve provided sufficient context that will allow others to create what’s missing.
 
 Public Assembly 
 
