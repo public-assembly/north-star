@@ -25,7 +25,7 @@ PA will rely on nouns style governance to facilitate collective management of a 
 [https://www.public---assembly.com/](https://www.public---assembly.com/) \
 [https://pblcasmbly.discourse.group/](https://pblcasmbly.discourse.group/) \
 [https://twitter.com/pblcasmbly](https://twitter.com/pblcasmbly) \
-[https://twitter.com/FF89DE](https://twitter.com/FF89DE) \
+[https://twitter.com/FF89DE](https://twitter.com/FF89DE)
 
 
 
