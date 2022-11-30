@@ -19,7 +19,7 @@ PA will rely on nouns style governance to facilitate collective management of a 
 
 ## What is #FF89DE and what is our relationship to Public Assembly
 
-#FF89DE is comprised of seven contributors. These individuals came together to conceptualize and develop the foundational elements of Public Assembly. Much of the influence of #ff89de is reflected via Public Assembly’s auction mechanics, website, and throughout Neosound. That being said, in the eyes of #ff89de, Public Assembly is much larger than what seven contributors alone can accomplish. We hope to set squads and contributors alike on a path of carving their own space within Public Assembly, utilizing the resources it provides and leaning on (when necessary) the guidelines #ff89de has provided.
+#FF89DE is comprised of seven contributors. These individuals came together to develop the foundational elements of Public Assembly. Much of the influence of #FF89DE is reflected via Public Assembly’s DAO inputs, creative output, and initial products. We hope to inspire teams and individuals alike to find their own space within Public Assembly, utilizing the resources it provides and leaning on (when necessary) the guidelines #FF89DE has provided.
 
 ## Ecosystem Links (as of 11/30/22)
 [https://www.public---assembly.com/](https://www.public---assembly.com/) \
