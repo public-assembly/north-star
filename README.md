@@ -9,7 +9,7 @@ There is a branch titled inspiration where you can add related resources that ma
 Public Assembly simplifies design problems to expedite curiosity 
 
 ## PA in 100 Words
-Public Assembly simplifies design problems to expedite curiosity. We listen to our intuition and embrace simple solutions that are commonly overlooked for more complex explanations. By proactively searching for incongruities around us, we identify what’s missing and aim to connect the dots through intentional documentation and a willingness to iterate. When supplemented with robust education and a team—centric approach, “the most important questions” can be explored with excitement in an accessible environment that welcomes mistakes. Prioritizing core values over transient opportunities establishes a circle of trust where growth occurs naturally and ideas pass freely between collaborators.
+Public Assembly simplifies design problems to expedite curiosity. We value iterative proccesses and embrace intuitive solutions. By identifying incongruities around us, we attract motivated individuals and equip them with the resources to create what's missing. We emphasize education, promote interdependence, and celebrate firsts to maintain an accessible environment that increases the probability of participation. Prioritizing core values over transient opportunities establishes a circle of trust where growth occurs naturally and ideas pass freely between collaborators.
 
 ## PA in 1000 Words
 TBD (this is where we can get more into the details of coding, design, daos, crypto, internet, async coord, orbital structure, etc.)
